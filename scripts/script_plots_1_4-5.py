@@ -3,7 +3,7 @@
 
 """ Data visualisation script for review of cdr side effects (figures 1, 4-5) """
 
-# import libraries and data
+# import libraries and literature data
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
