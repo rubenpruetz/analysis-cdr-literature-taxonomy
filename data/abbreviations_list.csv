@@ -1,0 +1,226 @@
+﻿text,unique_abbrev,taxo_number,abbrev_num
+Energy,Energy,A1,A1 Energy
+Food & Yield,Food&Yie,A2,A2 Food&Yie
+Land use,LandUse,A3,A3 LandUse
+Markets & Prices,Mark&Pric,A4,A4 Mark&Pric
+Air quality & condition,AirQualCond,B1,B1 AirQualCond
+Biodiversity,Biodiv,B2,B2 Biodiv
+Heavy metals,HeavyMet,B3,B3 HeavyMet
+Nutrients & Minerals,Nutr&Mins,B4,B4 Nutr&Mins
+pH change,pHchange,B5,B5 pHchange
+Raw materials,RawMat,B6,B6 RawMat
+Soil condition,SoilCond,B7,B7 SoilCond
+Toxicity & Radiation,Tox&Rad,B8,B8 Tox&Rad
+Water cycle,WaterCyc,B9,B9 WaterCyc
+Acceptance,Accept,C1,C1 Accept
+Efficacy threats,EffiThrts,C2,C2 EffiThrts
+Non-CO2 GHGs,N-CO2GHG,C3,C3 N-CO2GHG
+Policy response,PolicResp,C4,C4 PolicResp
+Thermal impact,ThermImpct,C5,C5 ThermImpct
+Energy demand,EngyDem,A1.1,EngyDem
+Energy production,EngyProd,A1.2,EngyProd
+Energy resource depletion,EngyResDpl,A1.3,EngyResDpl
+Food price,FoodPric,A2.1,FoodPric
+Food security,FoodSec,A2.2,FoodSec
+Hunger,Hunger,A2.3,Hunger
+Yields,Yields,A2.4,Yields
+Land demand,LandDem,A3.1,LandDem
+Land use conflict,LUconf,A3.2,LUconf
+Costs & Prices,Cost&Pric,A4.1,Cost&Pric
+Jobs & Livelihoods,Jobs&Liv,A4.2,Jobs&Liv
+Prosperity,Prosp,A4.3,Prosp
+Air pressure,AirPress,B1.1,AirPress
+Air quality,AirQual,B1.2,AirQual
+Planetary boundary layer,PlanBLay,B1.3,PlanBLay
+Wind,Wind,B1.4,Wind
+Biosphere integrity,BioInteg,B2.1,BioInteg
+Invertebrates,Inverte,B2.2,Inverte
+Microorganisms,Microorg,B2.3,Microorg
+Plants,Plants,B2.4,Plants
+Vertebrates,Verte,B2.5,Verte
+As cycling,As cyc,B3.1,As cyc
+Ba cycling,Ba cyc,B3.2,Ba cyc
+Cd cycling,Cd cyc,B3.3,Cd cyc
+Co cycling,Co cyc,B3.4,Co cyc
+Cr cycling,Cr cyc,B3.5,Cr cyc
+Cu,Cu,B3.6,Cu
+Fe,Fe,B3.7,Fe
+Hg cycling,Hg cyc,B3.8,Hg cyc
+Mn cycling,Mn cyc,B3.9,Mn cyc
+Mo cycling,Mo cyc,B3.10,Mo cyc
+Ni cycling,Ni cyc,B3.11,Ni cyc
+Pb cycling,Pb cyc,B3.12,Pb cyc
+Sb demand,Sb dem,B3.13,Sb dem
+Si cycling,Si cyc,B3.14,Si cyc
+Sr cycling,Sr cyc,B3.15,Sr cyc
+V cycling,V cyc,B3.16,V cyc
+Zn cycling,Zn cyc,B3.17,Zn cyc
+Agrochemicals,Agrochem,B4.1,Agrochem
+Al,Al,B4.2,Al
+B cycling,B cyc,B4.3,B cyc
+Ca cycling,Ca cyc,B4.4,Ca cyc
+CI- cycling,CI- cyc,B4.5,CI- cyc
+Eutrophication,Eutro,B4.6,Eutro
+F- cycling,F- cyc,B4.7,F- cyc
+K & compounds,K&comp,B4.8,K&comp
+Mg,Mg,B4.9,Mg
+N & compounds,N&comp,B4.10,N&comp
+Na cycling,Na cyc,B4.11,Na cyc
+P & compounds,P&comp,B4.12,P&comp
+S cycling,S cyc,B4.13,S cyc
+Rocks,Rocks,B6.1,Rocks
+Permanent wilting point,PerWiltPt,B7.1,PerWiltPt
+Soil cation exchange capacity,CEC,B7.2,CEC
+Soil compaction,SoilCompo,B7.3,SoilCompo
+Soil composition,SoilCompa,B7.4,SoilCompa
+Soil electrical conductivity,SElecCon,B7.5,SElecCon
+Soil gas exchange,SoilGasEx,B7.6,SoilGasEx
+Soil macroaggregates,SoilMacro,B7.7,SoilMacro
+Soil porosity,SoilPoro,B7.8,SoilPoro
+Soil temperature,SoilTemp,B7.9,SoilTemp
+Soil water,SoilWater,B7.10,SoilWater
+Ecotoxicity,Ecotox,B8.1,Ecotox
+Human toxicity,HumTox,B8.2,HumTox
+Ionising radiation,IonRad,B8.3,IonRad
+PAHs,PAHs,B8.4,PAHs
+Stratospheric ozone depletion,StraOzDpl,B8.5,StraOzDpl
+Cloud formation,CloudForm,B9.1,CloudForm
+Drainage & runoff,Drain&run,B9.2,Drain&run
+Evapotranspiration,ET,B9.3,ET
+Flood,Flood,B9.4,Flood
+Groundwater,Groundw,B9.5,Groundw
+Precipitation,Precip,B9.6,Precip
+Water demand,WaterDem,B9.7,WaterDem
+Water quality,WaterQual,B9.8,WaterQual
+Water scarcity,WaterScar,B9.9,WaterScar
+Technology perception,TechPerc,C1.1,TechPerc
+CDR readiness,CDRread,C2.1,CDRread
+Excess ocean heat,ExOceHeat,C2.2,ExOceHeat
+Leakage,Leak,C2.3,Leak
+Production emissions,ProdEmis,C2.4,ProdEmis
+Sequestration dynamics,SeqDyn,C2.5,SeqDyn
+CH4 emissions,CH4emis,C3.1,CH4emis
+N2O emissions,N2Oemis,C3.2,N2Oemis
+Burden sharing,BurdShar,C4.1,BurdShar
+Commodification of nature,ComOfNat,C4.2,ComOfNat
+Geopolitical interest,GeoPolInt,C4.3,GeoPolInt
+Moral hazard,MoralHaz,C4.4,MoralHaz
+Policy challenge,PolicChal,C4.5,PolicChal
+Safety vs urgency,SafeVsUrg,C4.6,SafeVsUrg
+Abiotic depletion,AbiotDepl,B6.2,AbiotDepl
+Biomass demand,BioDem,B6.3,BioDem
+Cement demand,CemeDem,B6.4,CemeDem
+Clay demand,ClayDem,B6.5,ClayDem
+Concrete demand,ConcDem,B6.6,ConcDem
+Ethylene demand,EthylDem,B6.7,EthylDem
+Fossil demand,FossilDem,B6.8,FossilDem
+Glyphosate demand,GlyphDem,B6.9,GlyphDem
+Manure demand,ManurDem,B6.10,ManurDem
+Sorbent demand,SorbDem,B6.11,SorbDem
+Steel demand,SteelDem,B6.12,SteelDem
+Aerodynamic resistance,AerDynRes,C5.1,AerDynRes
+Albedo,Albedo,C5.2,Albedo
+AMOC,AMOC,C5.3,AMOC
+Arctic summer ice,ArcSumIce,C5.4,ArcSumIce
+Atmospheric circulation,AtmoCirc,C5.5,AtmoCirc
+Emissivity,Emissiv,C5.6,Emissiv
+Heat & Energy flux,HEngyFlx,C5.7,HEngyFlx
+Heat-island effect,Heat-ilnd,C5.8,Heat-ilnd
+Permafrost,Permafr,C5.9,Permafr
+Surface radiation,SurfRad,C5.10,SurfRad
+Temperature outcome,TempOutcm,C5.11,TempOutcm
+Abatement cost,AbatCost,A4.1.1,AbatCost
+Carbon price,CarbPric,A4.1.2,CarbPric
+Commodity value,CommodVal,A4.1.3,CommodVal
+Electricity cost,ElectCost,A4.1.4,ElectCost
+SCC,SCC,A4.1.5,SCC
+Lack of workforce,LacOfWrkf,A4.2.1,LacOfWrkf
+Livelihood impact,LivImpct,A4.2.2,LivImpct
+Source of income,SourOfInc,A4.2.3,SourOfInc
+Work conditions,WorkCond,A4.2.4,WorkCond
+GDP,GDP,A4.3.1,GDP
+Welfare,Welfare,A4.3.2,Welfare
+CO emissions,COemis,B1.2.1,COemis
+Ozone formation,OzonForm,B1.2.2,OzonForm
+Particulate matter,ParticMat,B1.2.3,ParticMat
+Unspecified pollution,UnspPollu,B1.2.4,UnspPollu
+Cu cycling,Cu cyc,B3.6.1,Cu cyc
+Cu demand,Cu dem,B3.6.2,Cu dem
+Fe cycling,Fe cyc,B3.7.1,Fe cyc
+Fe demand,Fe dem,B3.7.2,Fe dem
+Agrochemicals cycling,AgChemCyc,B4.1.1,AgChemCyc
+Agrochemicals demand,AgChemDem,B4.1.2,AgChemDem
+Al cycling,Al cyc,B4.2.1,Al cyc
+Al demand,Al dem,B4.2.2,Al dem
+Freshwater eutrophication,FreshwEut,B4.6.1,FreshwEut
+Marine eutrophication,MarEut,B4.6.2,MarEut
+Terrestrial eutrophication,TerrEut,B4.6.3,TerrEut
+K cycling,K cyc,B4.8.1,K cyc
+K demand,K dem,B4.8.2,K dem
+K2O demand,K2O dem,B4.8.3,K2O dem
+Mg cycling,Mg cyc,B4.9.1,Mg cyc
+Mg demand,Mg dem,B4.9.2,Mg dem
+N cycling,N cyc,B4.10.1,N cyc
+N demand,N dem,B4.10.2,N dem
+NH3 cycling,NH3 cyc,B4.10.3,NH3 cyc
+NH4-N cycling,NH4-Ncyc,B4.10.4,NH4-Ncyc
+NH4+ cycling,NH4+Cyc,B4.10.5,NH4+Cyc
+NH4+-N cycling,NH4+-Ncyc,B4.10.6,NH4+-Ncyc
+NO2-N cycling,NO2-Ncyc,B4.10.7,NO2-Ncyc
+NO3- cycling,NO3-Cyc,B4.10.8,NO3-Cyc
+NO3-N cycling,NO3-Ncyc,B4.10.9,NO3-Ncyc
+P cycling,P cyc,B4.12.1,P cyc
+P demand,P dem,B4.12.2,P dem
+P2O5 demand,P2O5Dem,B4.12.3,P2O5Dem
+PLFAs cycling,PLFAsCyc,B4.12.4,PLFAsCyc
+PO3-4 cycling,PO3-4cyc,B4.12.5,PO3-4cyc
+PO3-4 demand,PO3-4dem,B4.12.6,PO3-4dem
+Freshwater pH,FreshwPH,B5.1,FreshwPH
+Ocean pH,Ocean pH,B5.2,Ocean pH
+Terrestrial pH,Terre pH,B5.3,Terre pH
+Silicate demand,SilicDem,B6.1.1,SilicDem
+Freshwater ecotoxicity,FreWEtox,B8.1.1,FreWEtox
+Marine ecotoxicity,MarEtox,B8.1.2,MarEtox
+Terrestrial ecotoxicity,TerrEtox,B8.1.3,TerrEtox
+Carcinogenic effect,CarcEff,B8.2.1,CarcEff
+Non-carcinogenic effect,NonCarcE,B8.2.2,NonCarcE
+Evaporation,Evap,B9.3.1,Evap
+Transpiration,Transp,B9.3.2,Transp
+Expert perception,ExperPerc,C1.1.1,ExperPerc
+Farmer perception,FarmPerc,C1.1.2,FarmPerc
+Landowner perception,LOwnPerc,C1.1.3,LOwnPerc
+Public perception,PublPerc,C1.1.4,PublPerc
+Stakeholder perception,StakePerc,C1.1.5,StakePerc
+Funding barrier,FundBarr,C2.1.1,FundBarr
+Knowledge gap,KnowGap,C2.1.2,KnowGap
+Logistics barrier,LogistBar,C2.1.3,LogistBar
+Removal market,RemoMark,C2.1.4,RemoMark
+Technology competitiveness,TechCompet,C2.1.5,TechCompet
+Technology maturity,TechMatur,C2.1.6,TechMatur
+Technology trade-off,TechTOff,C2.1.7,TechTOff
+Extreme events,ExtEvents,C2.3.1,ExtEvents
+ILUC emissions,ILUCemis,C2.3.2,ILUCemis
+Microbe-mediated mineralization,MicrobMin,C2.3.3,MicrobMin
+Ocean outgassing,OceOutgas,C2.3.4,OceOutgas
+Sabotage leakage,SabotLeak,C2.3.5,SabotLeak
+Unintended disturbance,UninDistu,C2.3.6,UninDistu
+Autotrophic respiration,AutoResp,C2.5.1,AutoResp
+Biome production,BiomProd,C2.5.2,BiomProd
+Carbon fertilization,CarbFert,C2.5.3,CarbFert
+Climatic condition,ClimCond,C2.5.4,ClimCond
+Sequestration efficiency,SeqEffic,C2.5.5,SeqEffic
+Sink saturation,SinkSat,C2.5.6,SinkSat
+Resource conflict,ResConf,C4.3.1,ResConf
+Delayed action,DelayAct,C4.4.1,DelayAct
+Failure acknowledgement,FailAckn,C4.4.2,FailAckn
+Lock-in,Lock-in,C4.4.3,Lock-in
+Reduced action,ReducAct,C4.4.4,ReducAct
+Conflicting policies,ConfPolic,C4.5.1,ConfPolic
+Regulation challenge,RegChal,C4.5.2,RegChal
+Sand demand,SandDem,B6.1.2,SandDem
+Cloud albedo,CloudAlb,C5.2.1,CloudAlb
+Surface albedo,SurfAlb,C5.2.2,SurfAlb
+Air temperature,AirTemp,C5.11.1,AirTemp
+Ocean temperature,OceTemp,C5.11.2,OceTemp
+Surface temperature,SurfTemp,C5.11.3,SurfTemp
+Temperature range,TempRang,C5.11.4,TempRang
